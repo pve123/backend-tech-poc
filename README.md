@@ -1,7 +1,7 @@
 # Springboot side project ( JWT + Redis + Gradle + Swagger + SMTP + DDD + Entity Migration + JPA + QueryDSL + MySQL + Docker)
 
 
-### summary : 회원 + 게시판 + 댓글
+### summary : 회원 + 게시판 + 댓글 + 이메일 인증
 
 
 ## Features
@@ -19,18 +19,18 @@
 - [x] 이미지 삭제
 - [x] 게시글 조회
 - [x] 게시글 조회 수
-- [x] 게시글 목록(Paging)
+- [x] 게시글 목록 (Paging)
 - [x] 회원 조회
-- [x] 회원 목록(Paging)
+- [x] 회원 목록 (Paging)
 - [x] 댓글 (Paging)
-- [x] 재댓글
+- [x] 대댓글 ( Paging)
 
 
 
 ## 사용한 툴 
 
 #### - Development tool : IntelliJ 
-#### - DB : Mysql
+#### - DB tool : Mysql(DataGrip, WorkBench)
 
 
 
