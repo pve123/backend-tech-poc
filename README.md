@@ -20,7 +20,7 @@
 - [x] 게시글 수정
 - [x] 게시글 삭제
 - [x] 댓글 (Paging)
-- [x] 대댓글 (Paging)
+- [x] 대댓글 (Paging)qwdwqd
 - [x] 회원 목록 (Paging)
 - [x] 회원 조회    
 - [x] 이미지 업로드
